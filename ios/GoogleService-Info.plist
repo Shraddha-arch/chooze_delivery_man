@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>275304610931-qk8sh428oc1t2npoh54qprs6jme3sbrn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.275304610931-qk8sh428oc1t2npoh54qprs6jme3sbrn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB207OjlsBUOpg8I715cRNInsF6_6I0xWc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>275304610931</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chooze.delivery</string>
+	<key>PROJECT_ID</key>
+	<string>choozedevlivery</string>
+	<key>STORAGE_BUCKET</key>
+	<string>choozedevlivery.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:275304610931:ios:c372ec5d21f76a085afe06</string>
+</dict>
+</plist>
