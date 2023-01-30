@@ -37,7 +37,7 @@ dependencies:
   location: ^4.4.0
   audioplayers: ^0.20.1
   flutter_widget_from_html_core: ^0.8.5+3
-  fwfh_text_style: ^2.7.3+2
+  # fwfh_text_style: ^2.7.3+2
   
 
 dev_dependencies:
